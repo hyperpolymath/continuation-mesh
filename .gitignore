@@ -23,3 +23,5 @@ verification/proofs/build/
 # Editor / OS
 *~
 .DS_Store
+
+node_modules/
